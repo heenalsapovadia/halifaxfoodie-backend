@@ -1,0 +1,24 @@
+{
+  "name": "halifaxfoodie-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heenalsapovadia/halifaxfoodie-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heenalsapovadia/halifaxfoodie-backend/issues"
+  },
+  "homepage": "https://github.com/heenalsapovadia/halifaxfoodie-backend#readme",
+  "dependencies": {
+    "@google-cloud/storage": "^5.11.0",
+    "express": "^4.17.1"
+  }
+}
